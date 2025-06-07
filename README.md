@@ -1,4 +1,4 @@
-👋 Hi, I’m @sushants2711!
+👋 Hi, I’m Sushant Kumar Singh!
 👀 I’m passionate about full-stack web development, software engineering, and bringing creative ideas to life through innovative applications.
 🌱 Currently, I’m diving deep into React JS and MongoDB to sharpen my skills in building modern, scalable web applications.
 💞️ I’d love to collaborate on exciting open-source projects, web development frameworks, or anything involving React, Django, or Node.js.
