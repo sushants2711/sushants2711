@@ -1,4 +1,4 @@
-## 👋 Hi, I’m Sushant Kumar Singh!
+# 👋 Hi, I’m Sushant Kumar Singh!
 
 - 👨‍💻 Passionate about **Backend web development**, **software engineering**, and turning creative ideas into real-world applications.
 - 🌱 Currently sharpening my skills in **NodeJS**, **React JS** and **MongoDB** for building scalable and modern web apps.
@@ -15,7 +15,7 @@
 - 😄 Pronouns: He/Him  
 - ⚡ Fun fact: I built a full Django-powered music player in just one weekend!
 
-### 🛠️ Skills & Technologies
+## 🛠️ Skills & Technologies
 
 - **Frontend:** React JS, Tailwind CSS, HTML5, CSS3, JavaScript, Bootstrap
 - **Backend:** Node.js, Express.js, Django, REST APIs
@@ -24,7 +24,7 @@
 - **Dev Tools:** Git & GitHub, Postman, VS Code, Docker
 
 
-### 🚀 Featured Projects
+## 🚀 Featured Projects
 
 | Project | Tech Stack | Description |
 |--------|------------|-------------|
