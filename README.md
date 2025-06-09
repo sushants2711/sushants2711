@@ -28,6 +28,7 @@
 
 | Project | Tech Stack | Description |
 |--------|------------|-------------|
+| ✅ [💸 Expense Tracker(MERN Full Stack)](https://github.com/sushants2711/Expense-Tracker) | React, Node.js, Express, MongoDB, Tailwind CSS| A full-stack expense manager with login/signup, income-expense tracking, and sorting features, also using JWT Token for Authentication, Authorization and routing. |
 | 🎵 [Music Player (Django)](https://github.com/sushants2711) | Django, HTML, CSS | A weekend-built music player that streams songs and manages playlists. |
 | 🔐 [Secure Auth System](https://github.com/sushants2711/Secure-auth-using-jwt) | React, Node.js, JWT, MongoDB | A complete auth system with signup, login, reset password, and JWT-based protection. |
 | ✅ [Todo App (Full Stack)](https://github.com/sushants2711/todo-college) | React, Node.js, MongoDB | A CRUD-based todo list with account management and JWT-secured APIs. |
